@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "D:\\Udactiy Projects\\Ansible\\ansible-udacity-exercises\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Udactiy Projects\\Ansible\\ansible-udacity-exercises\\lesson-1-intro-to-ansible\\exercises\\exercise-1\\starter\\inventory.ini||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:lesson-1-intro-to-ansible\\exercises\\exercise-1\\starter\\inventory.ini||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Udactiy Projects\\Ansible\\ansible-udacity-exercises\\lesson-2-ansible-roles-and-templates\\exercises\\demo\\roles\\inventory.ini||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:lesson-2-ansible-roles-and-templates\\exercises\\demo\\roles\\inventory.ini||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Udactiy Projects\\Ansible\\ansible-udacity-exercises\\lesson-2-ansible-roles-and-templates\\exercises\\demo\\roles\\playbook.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:lesson-2-ansible-roles-and-templates\\exercises\\demo\\roles\\playbook.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,13 +24,26 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "inventory.ini",
-              "DocumentMoniker": "D:\\Udactiy Projects\\Ansible\\ansible-udacity-exercises\\lesson-1-intro-to-ansible\\exercises\\exercise-1\\starter\\inventory.ini",
-              "RelativeDocumentMoniker": "lesson-1-intro-to-ansible\\exercises\\exercise-1\\starter\\inventory.ini",
-              "ToolTip": "D:\\Udactiy Projects\\Ansible\\ansible-udacity-exercises\\lesson-1-intro-to-ansible\\exercises\\exercise-1\\starter\\inventory.ini",
-              "RelativeToolTip": "lesson-1-intro-to-ansible\\exercises\\exercise-1\\starter\\inventory.ini",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAArAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\Udactiy Projects\\Ansible\\ansible-udacity-exercises\\lesson-2-ansible-roles-and-templates\\exercises\\demo\\roles\\inventory.ini",
+              "RelativeDocumentMoniker": "lesson-2-ansible-roles-and-templates\\exercises\\demo\\roles\\inventory.ini",
+              "ToolTip": "D:\\Udactiy Projects\\Ansible\\ansible-udacity-exercises\\lesson-2-ansible-roles-and-templates\\exercises\\demo\\roles\\inventory.ini",
+              "RelativeToolTip": "lesson-2-ansible-roles-and-templates\\exercises\\demo\\roles\\inventory.ini",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002768|",
-              "WhenOpened": "2025-03-13T15:11:37.351Z",
+              "WhenOpened": "2025-03-13T16:43:18.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "playbook.yml",
+              "DocumentMoniker": "D:\\Udactiy Projects\\Ansible\\ansible-udacity-exercises\\lesson-2-ansible-roles-and-templates\\exercises\\demo\\roles\\playbook.yml",
+              "RelativeDocumentMoniker": "lesson-2-ansible-roles-and-templates\\exercises\\demo\\roles\\playbook.yml",
+              "ToolTip": "D:\\Udactiy Projects\\Ansible\\ansible-udacity-exercises\\lesson-2-ansible-roles-and-templates\\exercises\\demo\\roles\\playbook.yml",
+              "RelativeToolTip": "lesson-2-ansible-roles-and-templates\\exercises\\demo\\roles\\playbook.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-03-13T16:39:36.746Z",
               "EditorCaption": ""
             },
             {
